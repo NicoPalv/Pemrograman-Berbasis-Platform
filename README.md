@@ -1,2 +1,3 @@
-Nicolay Kevin Palvian
-215314204
+NAMA : Nicolay Kevin Palvian
+
+NIM : 215314204
